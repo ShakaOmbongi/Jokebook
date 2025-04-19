@@ -4,7 +4,7 @@ A simple Node/Express + SQLite jokebook API with client‑side UI.
 
 ## Prerequisites
 
-- **Node.js** (v14+) & **npm**  
+- **Node.js**  & **npm**  
   Download from https://nodejs.org  
 - **SQLite3**  
   - For CLI migrations:  
